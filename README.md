@@ -60,7 +60,7 @@ The `week` column should use the `dd/mm/yy` date format.
 ### 1. Clone the Repository
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/streamlit-demand-forecasting.git
+git clone git clone https://github.com/Mihir-Dave/streamlit-demand-forecasting.git
 cd streamlit-demand-forecasting
 ```
 
@@ -89,7 +89,7 @@ http://localhost:8501
 Upload a `demand.csv` file with the required columns and view the forecasting dashboard.
 
 ## Project Structure
-
+```text
 streamlit-demand-forecasting/
 ├── app.py
 ├── requirements.txt
@@ -99,7 +99,7 @@ streamlit-demand-forecasting/
     ├── dashboard.png
     ├── forecast-graph.png
     └── model-output.png
-
+```
 
 ## Team Members
 
