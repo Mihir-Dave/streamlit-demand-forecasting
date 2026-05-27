@@ -103,14 +103,12 @@ streamlit-demand-forecasting/
 
 ## Team Members
 
-- Mihir Dave
-- Mehul Jain
+- Mihir Dave (EN23CS301613)
+- Mehul Jain  (EN23CS301612)
 
-Update this section with the final names, roll numbers, and responsibilities of all team members.
+
 
 ## Project Screenshots / Output
-
-Add screenshots and output images of the running application inside the `screenshot-output/` folder and link them below.
 
 Example:
 
